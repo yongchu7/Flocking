@@ -1,0 +1,8 @@
+﻿  flocking.cpp
+c:\users\51565\onedrive\documents\visual studio 2017\projects\flocking\flocking\flocking.cpp(20): warning C4996: 'sf::Text::setColor': was declared deprecated
+  d:\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\flocking\flocking\flocking.cpp(24): warning C4996: 'sf::Text::setColor': was declared deprecated
+  d:\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\51565\onedrive\documents\visual studio 2017\projects\flocking\flocking\flocking.cpp(28): warning C4996: 'sf::Text::setColor': was declared deprecated
+  d:\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  flocking.vcxproj -> C:\Users\51565\OneDrive\Documents\Visual Studio 2017\Projects\flocking\Debug\flocking.exe
